@@ -1,0 +1,50 @@
+{
+    "workbench.colorTheme": "Community Material Theme Ocean",
+    "workbench.productIconTheme": "fluent-icons",
+    "workbench.iconTheme": "material-icon-theme",
+    "terminal.integrated.fontSize": 13,
+    "security.workspace.trust.untrustedFiles": "open",
+    "editor.fontFamily": "JetBrainsMonoNerdFontCompleteM-Regular",
+    "editor.fontLigatures": true,
+    "git.confirmSync": false,
+    "javascript.updateImportsOnFileMove.enabled": "always",
+    "redhat.telemetry.enabled": true,
+    "vs-kubernetes": {
+        "vscode-kubernetes.helm-path.mac": "/Users/bbenouarets/.vs-kubernetes/tools/helm/darwin-arm64/helm",
+        "vscode-kubernetes.kubectl-path.mac": "/Users/bbenouarets/.vs-kubernetes/tools/kubectl/kubectl",
+        "vscode-kubernetes.minikube-path.mac": "/Users/bbenouarets/.vs-kubernetes/tools/minikube/darwin-arm64/minikube"
+    },
+    "terminal.integrated.fontFamily": "MesloLGLDZNerdFontComplete-Regular",
+    "explorer.confirmDragAndDrop": false,
+    "git.autofetch": true,
+    "explorer.confirmDelete": false,
+    "window.commandCenter": true,
+    "workbench.startupEditor": "none",
+    "[javascriptreact]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "[python]": {
+        "editor.formatOnType": true
+    },
+    "githubPullRequests.createOnPublishBranch": "never",
+    "[css]": {
+        "editor.defaultFormatter": "esbenp.prettier-vscode"
+    },
+    "editor.inlineSuggest.enabled": true,
+    "github.copilot.enable": {
+        "*": true,
+        "plaintext": true,
+        "markdown": false,
+        "scminput": false,
+        "yaml": false
+    },
+    "[typescriptreact]": {
+        "editor.defaultFormatter": "vscode.typescript-language-features"
+    },
+    "terminal.integrated.cursorStyle": "line",
+    "settingsSync.ignoredExtensions": [],
+    "git.openRepositoryInParentFolders": "never",
+    "terminal.integrated.automationProfile.windows": {
+    
+    }
+}

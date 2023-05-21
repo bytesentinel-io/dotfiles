@@ -3,13 +3,13 @@
 </div>
 
 <h1 align="center">
-  Name of repo
+  Dotfiles
 </h1>
 
 <div align="center">
-    <img src="https://img.shields.io/github/downloads/bytesentinel-io/REPO/total?style=for-the-badge" />
-    <img src="https://img.shields.io/github/last-commit/bytesentinel-io/REPO?color=%231BCBF2&style=for-the-badge" />
-    <img src="https://img.shields.io/github/issues/bytesentinel-io/REPO?style=for-the-badge" />
+    <img src="https://img.shields.io/github/downloads/bytesentinel-io/dotfiles/total?style=for-the-badge" />
+    <img src="https://img.shields.io/github/last-commit/bytesentinel-io/dotfiles?color=%231BCBF2&style=for-the-badge" />
+    <img src="https://img.shields.io/github/issues/bytesentinel-io/dotfiles?style=for-the-badge" />
 </div>
 
 <br />
